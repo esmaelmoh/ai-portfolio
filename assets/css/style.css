@@ -280,7 +280,7 @@ article.active {
 
 .title-text-1{
   font-family: var(--ff-cookie);
-  font-size: 40px;
+  font-size: 30px;
   letter-spacing: 2px;
   color: var(--white-2);
   font-weight: var(--fw-400)
