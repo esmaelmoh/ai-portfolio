@@ -275,12 +275,12 @@ article.active {
 .title-text{
   font-family: var(--ff-love-like);
   letter-spacing: 2px;
-  font-size: 40px !important;
+  font-size: 20px !important;
 }
 
 .title-text-1{
   font-family: var(--ff-cookie);
-  font-size: 30px;
+  font-size: 20px;
   letter-spacing: 2px;
   color: var(--white-2);
   font-weight: var(--fw-400)
